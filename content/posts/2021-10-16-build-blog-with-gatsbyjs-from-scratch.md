@@ -1,6 +1,6 @@
 ---
 title: 'تعلم بناء مدونة Gatsby.js خطوة بخطوة'
-date: 2020-10-16
+date: 2021-10-16
 slug: 'build-blog-with-gatsbyjs-from-scratch'
 template: 'post'
 categories:
