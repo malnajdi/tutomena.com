@@ -94,5 +94,8 @@
     "plugins": [
       "remark-preset-lint-recommended"
     ]
+  },
+  "volta": {
+    "node": "14.18.2"
   }
 }
