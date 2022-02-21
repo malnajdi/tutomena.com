@@ -6,13 +6,13 @@ template: 'post'
 categories:
   - javascript
 tags:
-  - javaScript
+  - javascript
 thumbnail: '../thumbnails/js.png'
 ---
 
 يعتبر مفهوم Scope أو النطاق من المفاهيم الأساسية في لغة البرمجة جافا سكريبت والذي يجب على كل المطورين بهذه اللغة أن يفهموه ويستوعبوه بشكل جيد.
 
-خاصية Scope تبنى عليها الكثير من المزايا الأخرى الحيوية في [JavaScript](/what-is-javascript/) لعل أهمها Closures. هذه الأخيرة سنتطرق إليها في مقال آخر قادم إن شاء الله لنركز أكثر في تدوينتها هذه على خاصية Scope فقط.
+خاصية Scope تبنى عليها الكثير من المزايا الأخرى الحيوية في [JavaScript](/what-is-javascript/) لعل أهمها [Closures](/javascript-closures). هذه الأخيرة سنتطرق إليها في مقال آخر قادم إن شاء الله لنركز أكثر في تدوينتها هذه على خاصية Scope فقط.
 
 ## ما هو Scope ؟
 
