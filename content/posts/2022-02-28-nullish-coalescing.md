@@ -92,7 +92,7 @@ loadScriptDynamically('my-script.js');
 - `undefined`
 - `0n`
 
-نلاحظ إذن بأن `undefined` و `null` هما فعلا من بين ال Falsy values في جافا سكريبت، وبالتالي فعند استخدامهما مع كل من `??` و `||` سنحص على نفس النتائج.
+نلاحظ إذن بأن `undefined` و `null` هما فعلا من بين ال Falsy values في جافا سكريبت، وبالتالي فعند استخدامهما مع كل من `??` و `||` سنحصل على نفس النتائج.
 
 ```js
 null ?? 'fallback'; // fallback
